@@ -1,4 +1,3 @@
-package multithreadig;
 
 class Factory {
 
